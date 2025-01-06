@@ -10,7 +10,7 @@ Miiouncer is a Unity VR game developed by Team Tempo for the Meta Quest platform
 - Dynamic guest behavior system
 - Engaging club atmosphere with soundtrack
 
-- ## Screenshot
+## Screenshot
 
 ![Casting_Screenshot_1730989168950](https://github.com/user-attachments/assets/99e54d3a-b415-4899-9f6c-f2dcafb598ce)
 
