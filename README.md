@@ -66,3 +66,9 @@ Program: Code and Context
 - Asset credits will be listed here
 
 For more information about the Code and Context program at TH Köln, visit their website.
+
+![coco.study](https://coco.study/)
+
+![thkoeln website](https://www.th-koeln.de/studium/code--context-bachelor_62103.php)
+
+
