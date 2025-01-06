@@ -67,8 +67,8 @@ Program: Code and Context
 
 For more information about the Code and Context program at TH Köln, visit their website.
 
-![coco.study](https://coco.study/)
+https://coco.study/
 
-![thkoeln website](https://www.th-koeln.de/studium/code--context-bachelor_62103.php)
+https://www.th-koeln.de/studium/code--context-bachelor_62103.php
 
 
