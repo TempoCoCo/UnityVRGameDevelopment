@@ -10,6 +10,11 @@ Miiouncer is a Unity VR game developed by Team Tempo for the Meta Quest platform
 - Dynamic guest behavior system
 - Engaging club atmosphere with soundtrack
 
+## Legal Disclaimer
+This project and its name "Miiouncer" is an independent creation and is not affiliated with, sponsored by, or endorsed by Nintendo Co., Ltd. or any of its subsidiaries. Any similarity to Nintendo's trademarked properties, including but not limited to Mii™ characters, is purely coincidental. All characters, assets, and game elements in this project are original creations.
+
+This VR game features completely original character designs and assets created specifically for this academic project. The game's bouncer characters and guest NPCs are unique designs that do not reference or replicate any Nintendo intellectual property.
+
 ## Screenshot
 
 ![Casting_Screenshot_1730989168950](https://github.com/user-attachments/assets/99e54d3a-b415-4899-9f6c-f2dcafb598ce)
