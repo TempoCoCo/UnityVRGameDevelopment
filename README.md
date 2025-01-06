@@ -63,7 +63,6 @@ Program: Code and Context
 ## Credits
 - Team Tempo - Development
 - TH Köln - Project Support
-- Asset credits will be listed here
 
 For more information about the Code and Context program at TH Köln, visit their website.
 
