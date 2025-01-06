@@ -38,11 +38,11 @@ public class NpcManager : MonoBehaviour  {
     {
         var npc = Instantiate(Resources.Load(NpcTypes.getRandNpcType())) as GameObject;
         npc.name = "npc-" + NpcCount;
-        var height = npc.transform.localScale.y * GameManeger.sizeMultipicator;
-        var width = npc.transform.localScale.x * GameManeger.sizeMultipicator;
-        var depth = npc.transform.localScale.z * GameManeger.sizeMultipicator;
+        var height = npc.transform.localScale.y * GameManager.sizeMultipicator;
+        var width = npc.transform.localScale.x * GameManager.sizeMultipicator;
+        var depth = npc.transform.localScale.z * GameManager.sizeMultipicator;
         npc.transform.localScale = new Vector3(width, height, depth);
-        npc.transform.position = new Vector3(0, 0.1f, (0.3f + 1.8f) * GameManeger.sizeMultipicator);
+        npc.transform.position = new Vector3(0, 0.1f, (0.3f + 1.8f) * GameManager.sizeMultipicator);
         npc.transform.rotation = Quaternion.Euler(0, 180, 0);
         npc.GetComponent<Npc>().SetPosition(2);
         Npcs[2] = npc.name;

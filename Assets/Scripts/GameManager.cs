@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class GameManeger : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     public static float sizeMultipicator = 1;
     private float pauseTime = 10;

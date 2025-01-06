@@ -8,14 +8,14 @@ public class GameInfoBoard : MonoBehaviour
     
     private GameObject player;
     private HighscoreManager highscoreManager;
-    private GameManeger game;
+    private GameManager game;
     private TextMeshPro textMeshPro;
     
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.Find("Main Camera");
-        game = GameObject.Find("GameManager").GetComponent<GameManeger>();
+        game = GameObject.Find("GameManager").GetComponent<GameManager>();
         highscoreManager = GameObject.Find("HighscoreManager").GetComponent<HighscoreManager>();
         textMeshPro = GameObject.Find("GameInfoText").GetComponent<TextMeshPro>();
     }

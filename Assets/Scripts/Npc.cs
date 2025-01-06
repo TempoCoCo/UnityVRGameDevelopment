@@ -47,7 +47,7 @@ public class Npc : MonoBehaviour
         } else {
             var z = gameObject.transform.position.z;
             gameObject.transform.rotation = Quaternion.Euler(0, 180, 0);
-            gameObject.transform.position = new Vector3(0, 0, z - 0.03f * GameManeger.sizeMultipicator);
+            gameObject.transform.position = new Vector3(0, 0, z - 0.03f * GameManager.sizeMultipicator);
         }
     }
 

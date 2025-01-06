@@ -5,10 +5,10 @@ using UnityEngine;
 public class ScoreDisplay : MonoBehaviour
 {
     // Start is called before the first frame update
-    GameManeger _game;
+    GameManager _game;
     void Start()
     {
-        _game = GameObject.Find("GameManeger").GetComponent<GameManeger>();
+        _game = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     // Update is called once per frame
